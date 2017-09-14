@@ -2,9 +2,14 @@
 some doc for driver
 
 
-README.md
-Input_subsystem.docx
-Selinux_subsystem.docx
-Seria_subsysteml.docx
-Socket_communication.docx
+README.md\n
+
+Input_subsystem.docx\n
+
+Selinux_subsystem.docx\n
+
+Seria_subsysteml.docx\n
+
+Socket_communication.docx\n
+
 USB_subsystem.docx
